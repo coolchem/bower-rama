@@ -1,0 +1,7 @@
+{
+    "name": "rama",
+    "version": "0.0.1",
+    "main": "./rama",
+    "dependencies": {
+    }
+}
